@@ -1,4 +1,6 @@
-### Hi there 👋
+### Witam witam 👋
+
+Jeżeli tutaj jesteś to oznacza że czegoś szukasz, ale czy to ja Ciebie tu zaprosiłem? Bo nie jestem pewien. Oczywiście żartuję sobie, czuj się tutaj jak w domu ;)
 
 <!--
 **hudziol/hudziol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
